@@ -2,7 +2,6 @@
 
 A static replica of the [Amazon.com](https://www.amazon.com) home page built using only *HTML* and *CSS*, with carefully selected PNG assets for layout accuracy. This project is a front-end practice exercise to recreate a real-world e-commerce landing page.
 
-[Amazon Clone] => (file:///E:/3rd%20Sem/Amazon/index.html)
 
  Features
 
